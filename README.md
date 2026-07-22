@@ -24,7 +24,7 @@ Full Stack Developer • AI Enthusiast • Open Source Contributor
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://github.com/umayanga-ithis">
+<a href="https://github.com/umayanga-i">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -95,9 +95,9 @@ Full Stack Developer • AI Enthusiast • Open Source Contributor
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=umayanga-ithis&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=umayanga-i&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=umayanga-ithis&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=umayanga-i&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,7 +107,7 @@ Full Stack Developer • AI Enthusiast • Open Source Contributor
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umayanga-ithis&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umayanga-i&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -117,7 +117,7 @@ Full Stack Developer • AI Enthusiast • Open Source Contributor
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umayanga-ithis&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umayanga-i&theme=tokyo-night"/>
 
 </p>
 
@@ -127,7 +127,7 @@ Full Stack Developer • AI Enthusiast • Open Source Contributor
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=umayanga-ithis&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=umayanga-i&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -137,7 +137,7 @@ Full Stack Developer • AI Enthusiast • Open Source Contributor
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/umayanga-ithis/umayanga-ithis/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/umayanga-i/umayanga-i/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -161,7 +161,7 @@ If you like my projects, consider giving them a ⭐
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=umayanga-ithis&label=Visitors&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=umayanga-i&label=Visitors&color=blue&style=flat"/>
 
 </p>
 
